@@ -1,0 +1,332 @@
+animations {
+  id: "star"
+  images {
+    image: "/stars/star_00.png"
+  }
+  images {
+    image: "/stars/star_01.png"
+  }
+  images {
+    image: "/stars/star_02.png"
+  }
+  images {
+    image: "/stars/star_03.png"
+  }
+  images {
+    image: "/stars/star_04.png"
+  }
+  images {
+    image: "/stars/star_05.png"
+  }
+  images {
+    image: "/stars/star_06.png"
+  }
+  images {
+    image: "/stars/star_07.png"
+  }
+  images {
+    image: "/stars/star_08.png"
+  }
+  images {
+    image: "/stars/star_09.png"
+  }
+  images {
+    image: "/stars/star_10.png"
+  }
+  images {
+    image: "/stars/star_11.png"
+  }
+  images {
+    image: "/stars/star_12.png"
+  }
+  images {
+    image: "/stars/star_13.png"
+  }
+  images {
+    image: "/stars/star_14.png"
+  }
+  images {
+    image: "/stars/star_15.png"
+  }
+  images {
+    image: "/stars/star_16.png"
+  }
+  images {
+    image: "/stars/star_17.png"
+  }
+  images {
+    image: "/stars/star_18.png"
+  }
+  images {
+    image: "/stars/star_19.png"
+  }
+  images {
+    image: "/stars/star_20.png"
+  }
+  images {
+    image: "/stars/star_21.png"
+  }
+  images {
+    image: "/stars/star_22.png"
+  }
+  images {
+    image: "/stars/star_23.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+}
+animations {
+  id: "bonus_star"
+  images {
+    image: "/stars/bonus_star_00.png"
+  }
+  images {
+    image: "/stars/bonus_star_01.png"
+  }
+  images {
+    image: "/stars/bonus_star_02.png"
+  }
+  images {
+    image: "/stars/bonus_star_03.png"
+  }
+  images {
+    image: "/stars/bonus_star_04.png"
+  }
+  images {
+    image: "/stars/bonus_star_05.png"
+  }
+  images {
+    image: "/stars/bonus_star_06.png"
+  }
+  images {
+    image: "/stars/bonus_star_07.png"
+  }
+  images {
+    image: "/stars/bonus_star_08.png"
+  }
+  images {
+    image: "/stars/bonus_star_09.png"
+  }
+  images {
+    image: "/stars/bonus_star_10.png"
+  }
+  images {
+    image: "/stars/bonus_star_11.png"
+  }
+  images {
+    image: "/stars/bonus_star_12.png"
+  }
+  images {
+    image: "/stars/bonus_star_13.png"
+  }
+  images {
+    image: "/stars/bonus_star_14.png"
+  }
+  images {
+    image: "/stars/bonus_star_15.png"
+  }
+  images {
+    image: "/stars/bonus_star_16.png"
+  }
+  images {
+    image: "/stars/bonus_star_17.png"
+  }
+  images {
+    image: "/stars/bonus_star_18.png"
+  }
+  images {
+    image: "/stars/bonus_star_19.png"
+  }
+  images {
+    image: "/stars/bonus_star_20.png"
+  }
+  images {
+    image: "/stars/bonus_star_21.png"
+  }
+  images {
+    image: "/stars/bonus_star_22.png"
+  }
+  images {
+    image: "/stars/bonus_star_23.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+}
+animations {
+  id: "aster"
+  images {
+    image: "/stars/aster_00.png"
+  }
+  images {
+    image: "/stars/aster_01.png"
+  }
+  images {
+    image: "/stars/aster_02.png"
+  }
+  images {
+    image: "/stars/aster_03.png"
+  }
+  images {
+    image: "/stars/aster_04.png"
+  }
+  images {
+    image: "/stars/aster_05.png"
+  }
+  images {
+    image: "/stars/aster_06.png"
+  }
+  images {
+    image: "/stars/aster_07.png"
+  }
+  images {
+    image: "/stars/aster_08.png"
+  }
+  images {
+    image: "/stars/aster_09.png"
+  }
+  images {
+    image: "/stars/aster_10.png"
+  }
+  images {
+    image: "/stars/aster_11.png"
+  }
+  images {
+    image: "/stars/aster_12.png"
+  }
+  images {
+    image: "/stars/aster_13.png"
+  }
+  images {
+    image: "/stars/aster_14.png"
+  }
+  images {
+    image: "/stars/aster_15.png"
+  }
+  images {
+    image: "/stars/aster_16.png"
+  }
+  images {
+    image: "/stars/aster_17.png"
+  }
+  images {
+    image: "/stars/aster_18.png"
+  }
+  images {
+    image: "/stars/aster_19.png"
+  }
+  images {
+    image: "/stars/aster_20.png"
+  }
+  images {
+    image: "/stars/aster_21.png"
+  }
+  images {
+    image: "/stars/aster_22.png"
+  }
+  images {
+    image: "/stars/aster_23.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+}
+animations {
+  id: "aster2"
+  images {
+    image: "/stars/aster2_00.png"
+  }
+  images {
+    image: "/stars/aster2_01.png"
+  }
+  images {
+    image: "/stars/aster2_02.png"
+  }
+  images {
+    image: "/stars/aster2_03.png"
+  }
+  images {
+    image: "/stars/aster2_04.png"
+  }
+  images {
+    image: "/stars/aster2_05.png"
+  }
+  images {
+    image: "/stars/aster2_06.png"
+  }
+  images {
+    image: "/stars/aster2_07.png"
+  }
+  images {
+    image: "/stars/aster2_08.png"
+  }
+  images {
+    image: "/stars/aster2_09.png"
+  }
+  images {
+    image: "/stars/aster2_10.png"
+  }
+  images {
+    image: "/stars/aster2_11.png"
+  }
+  images {
+    image: "/stars/aster2_12.png"
+  }
+  images {
+    image: "/stars/aster2_13.png"
+  }
+  images {
+    image: "/stars/aster2_14.png"
+  }
+  images {
+    image: "/stars/aster2_15.png"
+  }
+  images {
+    image: "/stars/aster2_16.png"
+  }
+  images {
+    image: "/stars/aster2_17.png"
+  }
+  images {
+    image: "/stars/aster2_18.png"
+  }
+  images {
+    image: "/stars/aster2_19.png"
+  }
+  images {
+    image: "/stars/aster2_20.png"
+  }
+  images {
+    image: "/stars/aster2_21.png"
+  }
+  images {
+    image: "/stars/aster2_22.png"
+  }
+  images {
+    image: "/stars/aster2_23.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+}
+animations {
+  id: "aster3"
+  images {
+    image: "/stars/IconMeteorite2_00.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_01.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_02.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_03.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_04.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_05.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_06.png"
+  }
+  images {
+    image: "/stars/IconMeteorite2_07.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+}
