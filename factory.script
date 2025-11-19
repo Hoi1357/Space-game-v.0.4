@@ -1,0 +1,35 @@
+local frequency = 0.5
+local bonus_prob = 0.2
+local bonus_prob2 = 0.8
+local bonus_prob3 = 0.9
+local min_y = 60
+local max_y = 600
+
+function init(self)
+	self.timer = 1/frequency
+	-- make the game deterministic
+	math.randomseed(0)
+end
+
+function update(self, dt)
+	self.timer = self.timer - dt
+	if self.timer <= 0 then
+		self.timer = 1/frequency
+		local p = go.get_position()
+		p.y = vmath.lerp(math.random(), min_y, max_y)
+		local component = "#star_factory"
+		if math.random() < bonus_prob then
+			component = "#bonus_factory"
+			if math.random() < bonus_prob2 then
+				component = "#aster12"
+				if math.random() < bonus_prob3 then
+					component = "#aster13"
+					if math.random() < bonus_prob then
+						component = "#super_factory"
+					end
+				end
+			end
+		end
+		factory.create(component, p)
+	end
+end
