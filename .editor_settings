@@ -1,0 +1,181 @@
+{
+  :bundle {
+    :android {
+      :architectures #{
+        "arm64-android"
+      }
+      :build_report true
+      :bundle_format #{
+        "apk"
+      }
+      :contentless false
+      :install false
+      :key-pass ""
+      :keystore ""
+      :keystore-pass ""
+      :launch false
+      :liveupdate false
+      :texture_compression "enabled"
+      :variant "release"
+      :with_symbols true
+    }
+    :last-bundle-command :project.bundle-windows
+    :macos {
+      :architectures #{
+        "arm64-macos"
+        "x86_64-macos"
+      }
+      :build_report false
+      :contentless false
+      :liveupdate false
+      :texture_compression "enabled"
+      :variant "release"
+      :with_symbols true
+    }
+    :output-directory "C:\\Users\\Кирилл2\\Desktop\\Проекты\\Space Game"
+    :windows {
+      :build_report false
+      :contentless false
+      :liveupdate false
+      :platform "x86_64-win32"
+      :texture_compression "enabled"
+      :variant "release"
+      :with_symbols true
+    }
+  }
+  :open-assets {
+    :term "star"
+  }
+  :workflow {
+    :recent-files [
+      [
+        "/stars/star2.script"
+        :code
+      ]
+      [
+        "/stars/factory — копия.script"
+        :code
+      ]
+      [
+        "/stars/factory — копия.go"
+        :scene
+      ]
+      [
+        "/main/main.script"
+        :code
+      ]
+      [
+        "/stars/aster.script"
+        :code
+      ]
+      [
+        "/stars/aster.go"
+        :scene
+      ]
+      [
+        "/input/game.input_binding"
+        :cljfx-form-view
+      ]
+      [
+        "/background/large_planets.script"
+        :code
+      ]
+      [
+        "/stars/bonus_star.go"
+        :scene
+      ]
+      [
+        "/stars/aster (2).go"
+        :scene
+      ]
+      [
+        "/stars/aster (2).script"
+        :code
+      ]
+      [
+        "/stars/pickup.particlefx"
+        :scene
+      ]
+      [
+        "/builtins/materials/sprite.fp"
+        :code
+      ]
+      [
+        "/spaceship/spaceship.script"
+        :code
+      ]
+      [
+        "/stars/aster12.script"
+        :code
+      ]
+      [
+        "/stars/aster12.go"
+        :scene
+      ]
+      [
+        "/stars/aster13.go"
+        :scene
+      ]
+      [
+        "/stars/aster13.script"
+        :code
+      ]
+      [
+        "/background/background.atlas"
+        :scene
+      ]
+      [
+        "/background/small_planets.go"
+        :scene
+      ]
+      [
+        "/background/large_planets.go"
+        :scene
+      ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/main/main.go"
+        :scene
+      ]
+      [
+        "/stars/stars.atlas"
+        :scene
+      ]
+      [
+        "/stars/bonus_star.script"
+        :code
+      ]
+      [
+        "/stars/super_star.script"
+        :code
+      ]
+      [
+        "/stars/super_star.go"
+        :scene
+      ]
+      [
+        "/stars/factory.go"
+        :scene
+      ]
+      [
+        "/stars/factory.script"
+        :code
+      ]
+      [
+        "/README.md"
+        :html
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+      [
+        "/spaceship_00.ico"
+        :code
+      ]
+    ]
+  }
+}
